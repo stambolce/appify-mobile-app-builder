@@ -1,3 +1,5 @@
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
 <div align="center">
 
 <a href="https://appify.mk"><img src="assets/appify-hero.svg" width="100%" alt="Appify — From website to mobile presence — PROCESS IN product showcase" /></a>
