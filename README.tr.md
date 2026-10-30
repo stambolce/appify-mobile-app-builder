@@ -1,28 +1,20 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<a href="https://appify.mk"><img src="assets/appify-hero.svg" width="100%" alt="Appify — From website to mobile presence — PROCESS IN product showcase" /></a>
+# Appify
 
-<br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
+<img src="assets/appify-hero.svg" width="100%" alt="Appify — ürün görsel sunumu" />
+
+**Mevcut siteden mobil varlığa.**
 
 [![Official Website](https://img.shields.io/badge/APPIFY_MK-OFFICIAL_WEBSITE-167AFF?style=for-the-badge)](https://appify.mk)
 [![Product](https://img.shields.io/badge/EXPLORE-PRODUCT-17191D?style=for-the-badge)](https://appify.mk)
 [![Developer](https://img.shields.io/badge/CREATED_BY-PROCESS_IN-167AFF?style=for-the-badge)](https://processin.mk)
 
-
-
-
-
-[Македонски](README.mk.md) · [PROCESS IN Portfolio](https://github.com/stambolce/process-in)
-
-### Mevcut siteden mobil varlığa.
-
-**Mevcut siteden mobil varlığa.**
+**LIVE**
 
 </div>
-
----
 
 ## Web'den uygulamaya
 
@@ -70,7 +62,7 @@ Web'den Android, siteden uygulama oluşturucu, WordPress'ten Android, push bildi
 |---|---|
 | Ürün | Appify |
 | Resmî site | [appify.mk](https://appify.mk) |
-| Kategori | Web sitesinden uygulama oluşturma |
+| Kategori | Web sitesinden mobil uygulamaya |
 | Durum | LIVE |
 | Geliştirici | [PROCESS IN](https://processin.mk) |
 | Portföy | [PROCESS IN](https://github.com/stambolce/process-in) |

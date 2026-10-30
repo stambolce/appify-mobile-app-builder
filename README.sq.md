@@ -1,28 +1,20 @@
-[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
-
 <div align="center">
 
-<a href="https://appify.mk"><img src="assets/appify-hero.svg" width="100%" alt="Appify — From website to mobile presence — PROCESS IN product showcase" /></a>
+# Appify
 
-<br/>
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
+<img src="assets/appify-hero.svg" width="100%" alt="Appify — prezantim vizual i produktit" />
+
+**Nga faqja ekzistuese te prania mobile.**
 
 [![Official Website](https://img.shields.io/badge/APPIFY_MK-OFFICIAL_WEBSITE-167AFF?style=for-the-badge)](https://appify.mk)
 [![Product](https://img.shields.io/badge/EXPLORE-PRODUCT-17191D?style=for-the-badge)](https://appify.mk)
 [![Developer](https://img.shields.io/badge/CREATED_BY-PROCESS_IN-167AFF?style=for-the-badge)](https://processin.mk)
 
-
-
-
-
-[Македонски](README.mk.md) · [PROCESS IN Portfolio](https://github.com/stambolce/process-in)
-
-### Nga faqja ekzistuese te prania mobile.
-
-**Nga faqja ekzistuese te prania mobile.**
+**LIVE**
 
 </div>
-
----
 
 ## Nga web-i te aplikacioni
 
@@ -70,7 +62,7 @@ Faqe në aplikacion Android, ndërtues aplikacionesh nga web-i, WordPress në An
 |---|---|
 | Produkti | Appify |
 | Faqja zyrtare | [appify.mk](https://appify.mk) |
-| Kategoria | Kthim faqesh në aplikacione |
+| Kategoria | Kthim faqesh web në aplikacione mobile |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Portofoli | [PROCESS IN](https://github.com/stambolce/process-in) |
